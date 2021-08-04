@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="200"/>
-</p>
-<br>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sam6134&color=brightgreen" alt="watching_count" />
@@ -33,7 +29,7 @@
   <br>
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -77,8 +73,7 @@
 <hr>
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=sam6134&theme=juicyfresh&no-bg=true" />
+
 
 
 -----
