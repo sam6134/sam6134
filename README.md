@@ -2,17 +2,12 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sam6134&color=brightgreen" alt="watching_count" />
  </p>
- <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Distributed%20Computing%20on%20Ray-brightgreen" />
-</p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Samarth Singh</h1>
+<h1 align="center">Hi , I am Samarth Singh</h1>
 <h3 align="center">Avid Developer | Tech Enthusiast </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/singhsamarth2000" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/samarth-singh-3b993916b/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/6134_samy/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href = "mailto: singhsamarth2000@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samarth-singh-3b993916b/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" alt="lin_ovindu" height="40" width="40" /></a>&nbsp&nbsp&nbsp&nbsp
+<a href = "mailto: singhsamarth2000@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/888/888853.png" height="40" width="40" /></a>
 </p>
 </p>
 
@@ -33,8 +28,6 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-
-✔ I’m currently learning about Scaling Systems on Ray and Distributed Programming. <br>
 ✔ Will love to collaborate with any Good Open Source Projects. <br>
 ✔ I love problem-solving and picking up new things as they come by.<br><br><br><br>
  
@@ -42,32 +35,35 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
-  <code><img height="50" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://softwareengineeringdaily.com/wp-content/uploads/2020/02/ray-logo.png"> </code>
-  <code> <img height="50" src="https://pbs.twimg.com/media/E0KBcp4WYAQ-sr-.jpg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"> </code>
-  <code> <img height="50" src="https://img2.pngio.com/ski-slalom-pygame-icon-free-transparent-png-clipart-images-pygame-png-840_593.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/sybase-4-logo-png-transparent.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://lh3.googleusercontent.com/proxy/7YnqTKhjXKfDvoswPpNFurBtyIkjmt8D2aoMpVzRnTdi-Q3xrzUkdrY54lOygJ53vHpTbJt_8v4iP6yS4lFqFNq1B5r5mbkTyCgSmcnMzAflrQ7RdS0zujGSKkKSwJf_qJlkoA"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-23A9F2?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Flask-4B32C3?style=flat-square&logo=Flask&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-C++-222F29?style=flat-square&logo=cplusplus&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-D22128?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Pytest-0079BF?style=flat-square&logo=pytest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Pycharm-FA6400?style=flat-square&logo=pycharm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Cassandra-5849BE?style=flat-square&logo=apachecassandra&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-FastAPI-42B883?style=flat-square&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Azure-F55247?style=flat-square&logo=azuredevops&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ray-E74430?style=flat-square&logo=aiohttp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Dask-FF4785?style=flat-square&logo=appveyor&logoColor=white"/>
+    
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam6134&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sam6134&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam6134&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="ovi" /></p>
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
 <br><br><br><br><br>
 
 <hr>
