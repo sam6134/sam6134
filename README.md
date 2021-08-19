@@ -55,6 +55,8 @@
     <img src="https://img.shields.io/badge/-Azure-F55247?style=flat-square&logo=azuredevops&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ray-E74430?style=flat-square&logo=aiohttp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Dask-FF4785?style=flat-square&logo=appveyor&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-JavaScript-0079BF?style=flat-square&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&logo=typescript&logoColor=white"/>
     
   <hr>
   <p align="center">
