@@ -28,6 +28,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
+
+✔ Currently learing Distributed computing on Ray/ Dask with manual cluster Initializations. <br>
 ✔ Will love to collaborate with any Good Open Source Projects. <br>
 ✔ I love problem-solving and picking up new things as they come by.<br><br><br><br>
  
