@@ -17,16 +17,14 @@
   <em>
     <br>
     Hello, I am Samarth Singh a <b>final year</b> undergraduate from <a href="https://www.iitjammu.ac.in"> <b>Indian Institute of Technology, Jammu</b></a> <br>
-    <b>A highly motivated and technology-driven enthusiast with interests focussed mainly in Software Development. </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
-    <br>who is <b>obsessed</b>
-    with learning new technologies.
+    <b>A technology-driven enthusiast with interests in Software Development. </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
 </p>
 <br><br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+&nbsp;***About me ....***
 
 
 ✔ Currently learing about Blockchain and cryptocurrency technology. <br>
@@ -34,7 +32,7 @@
 ✔ I love problem-solving and picking up new things as they come by.<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+&nbsp;***My working tools...***
 <p align="left">
   
    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
