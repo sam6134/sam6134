@@ -27,9 +27,9 @@
 &nbsp;***About me ....***
 
 
-✔ Currently learing about Blockchain and cryptocurrency technology. <br>
+✔ Currently working on Blockchain technology. <br>
 ✔ Will love to collaborate with any Good Open Source Projects. <br>
-✔ I love problem-solving and picking up new things as they come by.<br><br><br><br>
+✔ Love problem-solving and picking up new things as they come by.<br><br><br><br>
  
 
 &nbsp;***My working tools...***
